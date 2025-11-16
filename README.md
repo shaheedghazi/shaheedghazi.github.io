@@ -1,19 +1,5 @@
 # 💫About Me :
-🌟 Hello, I'm Shaheed Ghazi, a skilled hacker and technology expert with a wealth of experience in a variety of fields.
-
-🔍 My specialties include GSM, wireless communication, GIS, and DFIR, and I'm always seeking new challenges and opportunities to expand my knowledge and skillset.
-
-💻 I have an in-depth understanding of computer systems, networks, and software, and I'm able to use this knowledge to identify and exploit vulnerabilities in order to improve security.
-
-🔒 My expertise in cybersecurity and hacking makes me a valuable asset to companies and individuals looking to protect their digital assets from malicious actors.
-
-🌎 I also have experience working in the field of GIS, where I use my knowledge of geographic data and mapping software to help organizations better understand and visualize complex data sets.
-
-🔍 In addition, I have extensive experience in the field of DFIR (Digital Forensics and Incident Response), where I use my skills to investigate and solve complex cybersecurity incidents.
-
-🎓 I'm always learning and expanding my skillset, and I hold multiple certifications and degrees in a variety of technology-related fields.
-
-🥇 My dedication to excellence has earned me numerous awards and recognitions, and I'm proud to be considered one of the top hackers in the industry.
+🌟 Hello, I'm Shaheed Ghazi
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shaheedghazi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/shaheedghazi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaheedghazi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaheedghazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheedghazi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shaheedghazi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shaheedghazi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/shaheedghazi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shaheedghazi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shaheedghazi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shaheedghazi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/shaheedghazi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shaheedghazi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/shaheedghazi) 
